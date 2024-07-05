@@ -2,11 +2,19 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
-    description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
+  - title: eBay
+    role: MTS 1, Software Engineer
+    description: |
+      My team is part of the Authenticity Garanteed program which helps buyers shop for luxury or collectible items with confidence, while protecting sellers. As part of my work, I am focused on the development of software that are dedicated to this program. I am also managing 7 developers. Non-exhaustive list of tasks related to the position:
+      - Lead a dedicated engineering team mixed of both backend and frontend engineers
+      - Define, design, and implement complex, multi-tier distributed software systems focused on Authenticating high value luxury items
+      - Collaborate with engineers to design & build solutions in distributed systems, and large scale database systems
+      - Drive architecture discussions, produce well-documented design docs, and participate in design and code reviews
+      - Work in an agile environment with a focus on problem solving and engineering perfection.
+      - Collaborate closely with peers, Architects, Product Managers, Business Partners, Quality Engineers, and Operations teams to develop innovative solutions.
+      - Estimate engineering effort, plan execution cycles, and rollout system changes.
+      - Guide junior and senior engineers both within your team and across domain teams in building scalable, high speed, distributed applications.
+      - Etc.
     date: Jan. 2024 - Ongoing
   - title: Amazone
     role: Senior Software Engineer

@@ -1,0 +1,11 @@
+subject: Influences
+listing-order: 5
+icon: "/assets/img/flask.svg"
+contents:
+  - title: As a developer, I have been influenced by many works. The following books are the ones that have been most influencial to me during my career.
+    ref: 
+      - "[Clean Code](#) by **Robert C. Martin**"
+      - "[The Clean Coder](#) by **Robert C. Martin**"
+      - "[Rework](#) by **Jason Fried and David Heinmeier Hansson**"
+      - "[Remote](#) by **Jason Fried and David Heinmeier Hansson**"
+      - "[It doesn't have to be crazy at work](#) by **Jason Fried and David Heinmeier Hansson**"

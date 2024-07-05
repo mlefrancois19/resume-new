@@ -1,18 +1,26 @@
 subject: Education
-listing-order: 1
+listing-order: 3
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Collège François-Xavier-Garneau, Technical Degree in Computer Science
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - "3-year technically-focussed program that trains developers for them to be capable of working in all areas of application development (Web, mobile or other). Main focus was on management computing throughout the whole program."
+      - "I followed courses in which I learned to:
+
+          * Design websites using advanced technologies.
+
+          * Design powerful management applications.
+
+          * Design applications for mobile devices.
+
+          * Use and design databases.
+
+          * Use and exploit many object-oriented programming languages.
+
+          * Carry out projects using the Agile methodology and continuous integration."
+    date: Sept 2004 - June 2007
+  - title: Collège François-Xavier-Garneau, Pre-University Degree in Administration
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - "2-year program that is meant to prepare students for University."
+      - "I followed courses in which I learned administration, economics, mathematics, languages"
+    date: Sept 2000 - Dec 2003
